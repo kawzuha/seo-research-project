@@ -45,7 +45,7 @@ research/
 ├── sources.md
 ├── linkedin-posts/
 ├── youtube-transcripts/
-└── blog-posts/
+└── other/
 ```
 
 Each file represents a single content item (LinkedIn post, YouTube video, or blog article).
