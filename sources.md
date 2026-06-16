@@ -1,31 +1,35 @@
-**AI-Powered SEO Content Production Research**
+# AI-Powered SEO Content Production Research
 
-**Aleyda Solís**
-Links
-  LinkedIn: https://www.linkedin.com/in/aleyda/
-  YouTube: https://www.youtube.com/@CrawlingMondaysbyAleyda
-Date Collected: 2026-06-16
-Annotation: International SEO consultant and founder of Orainti. Creator of Crawling Mondays, SEOFOMO, and LearningSEO.io. Publishes educational content about AI search, technical SEO, content optimization, and international SEO.
-Why Selected
-  Leading SEO educator and practitioner.
-  Active on both LinkedIn and YouTube.
-  Frequently discusses AI search, AI Overviews, and SEO content workflows.
-Content Sources: LinkedIn posts, YouTube video, Blog posts
+## Aleyda Solís
+### Links
+- LinkedIn: https://www.linkedin.com/in/aleyda/
+- YouTube: https://www.youtube.com/@CrawlingMondaysbyAleyda
+### Date Collected
+- 2026-06-16
+### Annotation International SEO consultant and founder of Orainti. Creator of Crawling Mondays, SEOFOMO, and LearningSEO.io. Publishes educational content about AI search, technical SEO, content optimization, and international SEO.
+### Why Selected
+- Leading SEO educator and practitioner.
+- Active on both LinkedIn and YouTube.
+- Frequently discusses AI search, AI Overviews, and SEO content workflows.
+### Content Sources
+- LinkedIn posts
+- YouTube video
+- Blog posts
 
-Lily Ray
-Links
-* LinkedIn: https://www.linkedin.com/in/lily-ray-44755615/
-Date Collected
-* 2026-06-16
-Annotation SEO and AI Search consultant known for research on Google algorithm updates, E-E-A-T, AI Overviews, and content quality. Frequently analyzes how AI-driven search impacts SEO strategy.
-Why Selected
-* Highly respected SEO expert.
-* Strong focus on AI search and content quality.
-* Regularly publishes industry research and analysis.
-Content Sources
-* LinkedIn posts
-* Blog post
-* Youtube video
+## Lily Ray
+### Links
+- LinkedIn: https://www.linkedin.com/in/lily-ray-44755615/
+### Date Collected
+- 2026-06-16
+### Annotation SEO and AI Search consultant known for research on Google algorithm updates, E-E-A-T, AI Overviews, and content quality. Frequently analyzes how AI-driven search impacts SEO strategy.
+### Why Selected
+- Highly respected SEO expert.
+- Strong focus on AI search and content quality.
+- Regularly publishes industry research and analysis.
+### Content Sources
+- LinkedIn posts
+- Blog post
+- Youtube video
 
 Kevin Indig
 Links
