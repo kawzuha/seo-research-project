@@ -1,20 +1,16 @@
 **AI-Powered SEO Content Production Research**
 
 **Aleyda Solís**
-# Links
+Links
   LinkedIn: https://www.linkedin.com/in/aleyda/
   YouTube: https://www.youtube.com/@CrawlingMondaysbyAleyda
-# Date Collected: 2026-06-16
-# Annotation
-International SEO consultant and founder of Orainti. Creator of Crawling Mondays, SEOFOMO, and LearningSEO.io. Publishes educational content about AI search, technical SEO, content optimization, and international SEO.
-# Why Selected
+Date Collected: 2026-06-16
+Annotation: International SEO consultant and founder of Orainti. Creator of Crawling Mondays, SEOFOMO, and LearningSEO.io. Publishes educational content about AI search, technical SEO, content optimization, and international SEO.
+Why Selected
   Leading SEO educator and practitioner.
   Active on both LinkedIn and YouTube.
   Frequently discusses AI search, AI Overviews, and SEO content workflows.
-# Content Sources
-  LinkedIn posts
-  YouTube video
-  Blog posts
+Content Sources: LinkedIn posts, YouTube video, Blog posts
 
 Lily Ray
 Links
