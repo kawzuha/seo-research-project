@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Prerequisites (before you write anything)
+## 1. Prerequisites
 
 ### 1.1 Define brand pillars and topic clusters
 
