@@ -87,7 +87,7 @@ This playbook merges the strongest elements of Boshoff's 12-step process, Indig'
 | B4 | Apply human expertise overlay (~30%): original data, case studies, screenshots, practitioner details | Subject-matter expert | [Matt Diggity](https://www.linkedin.com/posts/mattdiggityseo_the-biggest-seo-lie-of-2025-ai-content-activity-7323282594161164288-jNat), LinkedIn, 30.04.2025; [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn, 03.11.2025 |
 | **Gate 2** | SME confirms factual accuracy and adds non-automatable experience | SME | [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn, 03.11.2025 |
 
-**Rule:** Use LLMs to speed up analysis and drafting—not to replace strategic decisions or lived experience (source: [Aleyda Solís](https://www.advancedwebranking.com/blog/adapting-old-seo-rules-to-the-new-ai-search), blog, 14.07.2025).
+**Rule:** Use LLMs to speed up analysis and drafting, not to replace strategic decisions or lived experience (source: [Aleyda Solís](https://www.advancedwebranking.com/blog/adapting-old-seo-rules-to-the-new-ai-search), blog, 14.07.2025).
 
 ### Phase C — Optimize & structure (Days 4–5)
 
