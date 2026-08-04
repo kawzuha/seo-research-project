@@ -5,7 +5,7 @@
 **Research window:** January 2025 – June 2026  
 **Sources:** 10 practitioners, 48 pieces of content (see [master_summary.md](master_summary.md))
 
-**How to use this document:** This playbook intentionally prioritizes editorial quality over publishing speed. Across the reviewed experts, the strongest consensus was that AI should accelerate research, drafting, and optimization—but should not replace human judgment or first-hand expertise. Where experts disagreed, I favored approaches that reduce long-term brand risk over short-term publishing volume. This document is an opinionated SOP rather than a literature review. Every recommendation includes a source citation, and the final sections explain where experts disagree, what I rejected, my original ideas, the playbook's limitations, and which experts I would not recommend following.
+**How to use this document:** This playbook intentionally prioritizes editorial quality over publishing speed. Across the reviewed experts, the strongest consensus was that AI should accelerate research, drafting, and optimization, but should not replace human judgment or first-hand expertise. Where experts disagreed, I favored approaches that reduce long-term brand risk over short-term publishing volume. This document is an opinionated SOP rather than a literature review. Every recommendation includes a source citation, and the final sections explain where experts disagree, what I rejected, my original ideas, the playbook's limitations, and which experts I would not recommend following.
 
 ---
 
