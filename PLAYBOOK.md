@@ -53,7 +53,7 @@ Mine sales transcripts and support tickets for question themes. Content built ar
 
 Plan distribution across web, YouTube, and UGC surfaces—the full retrieval corpus AI systems draw from (source: [Nathan Gotch](https://www.linkedin.com/posts/nathangotch_my-seo-predictions-for-2026-1-organic-activity-7398720778525057024-TTha), LinkedIn post, 01.11.2025; [Lily Ray](https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search), Substack, 20.01.2026).
 
-### 2.6 Know where AI content works—and where it does not
+### 2.6 Know where AI content works and where it does not
 
 AI drafts work for templated, data-driven, supplementary content with strong editorial governance. They fail for generic informational content without brand differentiation or first-hand experience (source: [Kevin Indig](https://www.siegemedia.com/conversation/adapting-to-the-brand-first-seo-era-w-kevin-indig), interview, 22.05.2025).
 
@@ -72,7 +72,7 @@ This playbook merges the strongest elements of Boshoff's 12-step process, Indig'
 | A1 | SERP analysis for target keyword/topic | SEO strategist | [Jonathan Boshoff](https://jonathanboshoff.com/ai-content-for-seo/), blog, Date N/A |
 | A2 | Generate AI content brief with competitor analysis and entity coverage | AI agent or LLM | [Jonathan Boshoff](https://jonathanboshoff.com/how-to-make-scalable-ai-content-for-seo/), blog, Date N/A |
 | A3 | Cross-check brief against AlsoAsked question clusters for intent completeness | SEO strategist | [Arnout Hellemans](https://www.linkedin.com/posts/arnouthellemans_seo-cro-activity-7306353102444523520-dJA7), LinkedIn, 14.03.2025 |
-| A4 | Confirm topic aligns to a content pillar—not an orphan keyword | SEO strategist | [Matt Diggity](https://www.linkedin.com/posts/mattdiggityseo_the-biggest-seo-lie-of-2025-ai-content-activity-7323282594161164288-jNat), LinkedIn, 30.04.2025 |
+| A4 | Confirm topic aligns to a content pillar, not an orphan keyword | SEO strategist | [Matt Diggity](https://www.linkedin.com/posts/mattdiggityseo_the-biggest-seo-lie-of-2025-ai-content-activity-7323282594161164288-jNat), LinkedIn, 30.04.2025 |
 | **Gate 1** | Human approves brief before any drafting begins | Editor | [Jonathan Boshoff](https://jonathanboshoff.com/ai-content-for-seo/), blog, Date N/A |
 
 **Rule:** Never raw-prompt to publish. Always start with a SERP-informed brief (source: [Jonathan Boshoff](https://jonathanboshoff.com/ai-content-for-seo/), blog, Date N/A).
