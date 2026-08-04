@@ -21,7 +21,7 @@ Do not start from keyword tools alone. Gather real questions from sales calls, s
 
 ### 1.3 Measure AI presence before creating new content
 
-Track prompt coverage, recommendation rate, linked citation rate, comparative win rate, and representation accuracy. Optimization should begin from observed gaps—not a reflex to publish more pages (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026).
+Track prompt coverage, recommendation rate, linked citation rate, comparative win rate, and representation accuracy. Optimization should begin from observed gaps, not a reflex to publish more pages (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026).
 
 ### 1.4 Run intent research, not volume research
 
@@ -43,7 +43,7 @@ Cover the full customer journey with on-brand, helpful, extractable content. Use
 
 ### 2.3 Do what AI cannot replicate
 
-Use AI to format and communicate human experience—not to manufacture it. Product reviews need real testing, original photos, and documented pros/cons from hands-on use (source: [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn post, 03.11.2025).
+Use AI to format and communicate human experience, not to manufacture it. Product reviews need real testing, original photos, and documented pros/cons from hands-on use (source: [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn post, 03.11.2025).
 
 ### 2.4 Build content around real customer questions
 
