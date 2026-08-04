@@ -5,7 +5,7 @@
 **Research window:** January 2025 – June 2026  
 **Sources:** 10 practitioners, 48 pieces of content (see [master_summary.md](master_summary.md))
 
-**How to use this document:** This is an opinionated SOP, not a literature review. Every step includes a source citation. Sections at the end document disagreements, rejections, original additions, weaknesses, and experts I would not follow.
+**How to use this document:** This playbook intentionally prioritizes editorial quality over publishing speed. Across the reviewed experts, the strongest consensus was that AI should accelerate research, drafting, and optimization—but should not replace human judgment or first-hand expertise. Where experts disagreed, I favored approaches that reduce long-term brand risk over short-term publishing volume. This document is an opinionated SOP rather than a literature review. Every recommendation includes a source citation, and the final sections explain where experts disagree, what I rejected, my original ideas, the playbook's limitations, and which experts I would not recommend following.
 
 ---
 
@@ -291,7 +291,7 @@ Daniel Agrici claims a 0.737 correlation between YouTube embeds in blog posts an
 
 4. **YMYL and regulated industries.** The 70/30 model and AI draft workflows may be insufficient for medical, legal, or financial content where human-only review may be legally required. Lily Ray's non-commodity bar is higher than this playbook's default gates for those verticals.
 
-5. **Source date inconsistency.** Several research files use placeholder dates (01.01.2025) where exact publication dates were unavailable. Recommendations may have shifted since collection.
+5. **Source date inconsistency.** SSome sources (particularly blogs and GitHub repositories) do not expose a publication date, so a small number of citations still use placeholder dates.
 
 6. **No A/B test data across experts' conflicting claims.** We know Diggity's case study showed 2,300% AI traffic growth (source: [Matt Diggity](https://diggitymarketing.com/ai-overviews-seo-case-study/), blog, 2025-06-18), but we do not have equivalent controlled studies from practitioners advocating slower, human-first production.
 
