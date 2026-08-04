@@ -272,7 +272,7 @@ Daniel Agrici claims a 0.737 correlation between YouTube embeds in blog posts an
 **How it works:**
 
 1. Export pages with high Google impressions but zero AI citations (using GSC + an AI visibility tool).
-2. Run Aleyda's readiness gap diagnosis on those URLs only—tag each as failing Useful, Extractable, Differentiated, or Credible.
+2. Run Aleyda's readiness gap diagnosis on those URLs only, tag each as failing Useful, Extractable, Differentiated, or Credible.
 3. Spend a fixed 2-week sprint restructuring those pages (answer-first formatting, FAQ blocks, SME quotes, schema) without writing any net-new URLs.
 4. Re-sample AI presence at topic level after 14 days.
 5. Only if citation gaps persist *after* on-page fixes do you greenlight new content from the topic cluster.
