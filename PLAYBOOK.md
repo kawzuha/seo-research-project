@@ -31,7 +31,7 @@ Map question clusters by intent stage using AlsoAsked (or equivalent). Prioritiz
 
 ## 2. Content strategy rules
 
-### 2.1 Invest in on-brand informational content—with real expertise
+### 2.1 Invest in on-brand informational content with real expertise
 
 Generic glossary pages and disconnected fluff are dead. Expert-led informational content tied to brand subject-matter expertise and the customer journey still drives authority in traditional search and LLMs (source: [Aleyda Solís](https://www.linkedin.com/posts/aleyda_bad-take-informational-content-is-dead-activity-7300886566665621505-0AnN), LinkedIn post, 01.02.2025).
 
