@@ -109,7 +109,7 @@ This playbook merges the strongest elements of Boshoff's 12-step process, Indig'
 | D2 | Query satisfaction check: does the page fully complete the user's task? | Editor | [Arnout Hellemans](https://majestic.com/seo-in-2025/arnout-hellemans), blog, 06.03.2025 |
 | D3 | Anti-slop / humanization check (if using Claude SEO skills: run automated quality gates) | QA agent | [Daniel Agrici](https://www.youtube.com/watch?v=COMnNlUakQk), YouTube, 10.02.2026 |
 | D4 | Confirm content passes "commodity filter": could this be produced in a 25-minute Claude session with no real expertise? If yes, reject or add human layer | Editor | [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn, 03.11.2025 |
-| **Gate 3** | Human editorial sign-off—mandatory, not optional | Editor | [Kevin Indig](https://www.airops.com/blog/scalable-ai-content-seo-systems), blog, 12.01.2026 |
+| **Gate 3** | Human editorial sign-off is mandatory, not optional | Editor | [Kevin Indig](https://www.airops.com/blog/scalable-ai-content-seo-systems), blog, 12.01.2026 |
 
 ### Phase E — Publish & distribute (Day 6)
 
@@ -137,7 +137,7 @@ This playbook merges the strongest elements of Boshoff's 12-step process, Indig'
 
 Replace ad-hoc ChatGPT usage with engineered pipelines. Delegate entire production steps (research → brief → draft → QA → publish) rather than chatting task-by-task (source: [Kevin Indig](https://www.airops.com/blog/scalable-ai-content-seo-systems), blog, 12.01.2026; [Gael Breton](https://www.authorityhacker.com/blog/claude-code-for-marketers-course-announcement/), blog, 06.02.2026).
 
-Use modular, single-purpose agents stitched into a pipeline—not one-shot prompts (source: [Jonathan Boshoff](https://github.com/boshify/ai-seo-agent-skills), GitHub repo, Date N/A).
+Use modular, single-purpose agents stitched into a pipeline, not one-shot prompts (source: [Jonathan Boshoff](https://github.com/boshify/ai-seo-agent-skills), GitHub repo, Date N/A).
 
 ### 4.3 High-ROI automations to build first
 
@@ -191,7 +191,7 @@ Leverage existing SEO expertise for LLM channels rather than creating a separate
 
 (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026)
 
-Analyze visibility by product line or topic context—not generic brand-level scores (source: [Aleyda Solís](https://www.advancedwebranking.com/blog/adapting-old-seo-rules-to-the-new-ai-search), blog, 14.07.2025).
+Analyze visibility by product line or topic context, not generic brand-level scores (source: [Aleyda Solís](https://www.advancedwebranking.com/blog/adapting-old-seo-rules-to-the-new-ai-search), blog, 14.07.2025).
 
 ### 6.2 Traditional SEO KPIs
 
@@ -199,7 +199,7 @@ Monitor organic traffic, impressions, and engagement metrics (dwell time, task c
 
 ### 6.3 Validation protocol
 
-Re-sample AI presence after changes—do not rely on single-prompt checks (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026).
+Re-sample AI presence after changes, do not rely on single-prompt checks (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026).
 
 Shift metrics from traffic-only to citation, recommendation, and representation (source: [Aleyda Solís](https://speakerdeck.com/aleyda/the-ai-search-optimization-roadmap-by-aleyda-solis), speaker deck, 11.09.2025).
 
@@ -213,7 +213,7 @@ Shift metrics from traffic-only to citation, recommendation, and representation 
 
 **Author B — Jonathan Boshoff / Kevin Indig** require mandatory human review at three stages—brief, draft, and pre-publish—with quality gates that content cannot skip (source: [Jonathan Boshoff](https://jonathanboshoff.com/ai-content-for-seo/), blog, Date N/A; [Kevin Indig](https://www.airops.com/blog/scalable-ai-content-seo-systems), blog, 12.01.2026).
 
-**My take:** Side with Boshoff and Indig. Goldie's 5-minute review cannot catch factual errors, missing E-E-A-T, or commodity content—and Lily Ray explicitly warns that polished AI output from a short session still lacks the effort that makes content defensible (source: [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn, 03.11.2025). Three-gate review adds latency but reduces brand risk.
+**My take:** Side with Boshoff and Indig. Goldie's 5-minute review cannot catch factual errors, missing E-E-A-T, or commodity content, and Lily Ray explicitly warns that polished AI output from a short session still lacks the effort that makes content defensible (source: [Lily Ray](https://www.linkedin.com/posts/lily-ray-44755615_google-recently-reminded-everyone-that-non-commodity-activity-7455667858283368448-zkBC), LinkedIn, 03.11.2025). Three-gate review adds latency but reduces brand risk.
 
 ---
 
@@ -229,7 +229,7 @@ Shift metrics from traffic-only to citation, recommendation, and representation 
 
 ### Disagreement 3: Create new content vs. fix existing pages first?
 
-**Author A — Aleyda Solís** argues optimization should start from observed AI presence gaps—not a reflex to create more content. Diagnose readiness characteristics (Useful, Extractable, Differentiated, Credible) before production sprints (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026).
+**Author A — Aleyda Solís** argues optimization should start from observed AI presence gaps, not a reflex to create more content. Diagnose readiness characteristics (Useful, Extractable, Differentiated, Credible) before production sprints (source: [Aleyda Solís](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/), blog, 28.05.2026).
 
 **Author B — Kevin Indig / Matt Diggity** emphasize proactive topic clustering, batch draft generation (30/quarter), and building new topical authority through cluster expansion (source: [Kevin Indig](https://majestic.com/seo-in-2025/kevin-indig), blog, 08.04.2025; [Matt Diggity](https://www.linkedin.com/posts/mattdiggityseo_the-biggest-seo-lie-of-2025-ai-content-activity-7323282594161164288-jNat), LinkedIn, 30.04.2025).
 
