@@ -2,7 +2,7 @@
 
 **Topic:** How to build a production system that uses AI to scale SEO content without sacrificing quality, E-E-A-T, or AI-search visibility.
 
-**Research window:** June 2025 – June 2026  
+**Research window:** January 2025 – June 2026  
 **Sources:** 10 practitioners, 48 pieces of content (see [master_summary.md](master_summary.md))
 
 **How to use this document:** This is an opinionated SOP, not a literature review. Every step includes a source citation. Sections at the end document disagreements, rejections, original additions, weaknesses, and experts I would not follow.
