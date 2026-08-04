@@ -277,7 +277,7 @@ Daniel Agrici claims a 0.737 correlation between YouTube embeds in blog posts an
 4. Re-sample AI presence at topic level after 14 days.
 5. Only if citation gaps persist *after* on-page fixes do you greenlight new content from the topic cluster.
 
-**Why it could work:** It operationalizes Aleyda's "don't reflex-create content" advice into a time-boxed team ritual. Most sites already have underperforming pages earning impressions—the lowest-cost visibility win is often restructuring what exists, not publishing article #401. It also gives leadership a clear KPI: "citation gap closure rate" per sprint, rather than vanity publish counts.
+**Why it could work:** It operationalizes Aleyda's "don't reflex-create content" advice into a time-boxed team ritual. Most sites already have underperforming pages earning impressions, the lowest-cost visibility win is often restructuring what exists, not publishing article #401. It also gives leadership a clear KPI: "citation gap closure rate" per sprint, rather than vanity publish counts.
 
 ---
 
@@ -313,15 +313,15 @@ Of the 10 experts researched, Goldie is the one I would **not** recommend others
 
 3. **Commercial incentive structure.** Goldie's content consistently funnels toward paid access to pre-built systems (AI Profit Boardroom) rather than teaching editorial judgment. Useful for inspiration on agent architecture, but risky as an editorial philosophy.
 
-4. **Contradicts the consensus on experience.** He argues AI output with a pasted case study is "better than any human out there" and dismisses human writer reliability (source: [Julian Goldie](https://www.youtube.com/watch?v=KTU5dGle8wA), YouTube, 19.05.2026). Lily Ray explicitly identifies this mindset—using AI to generate experience rather than communicate it—as the core mistake teams make.
+4. **Contradicts the consensus on experience.** He argues AI output with a pasted case study is "better than any human out there" and dismisses human writer reliability (source: [Julian Goldie](https://www.youtube.com/watch?v=KTU5dGle8wA), YouTube, 19.05.2026). Lily Ray explicitly identifies this mindset, using AI to generate experience rather than communicate it, as the core mistake teams make.
 
-**Note:** I would still study Goldie's Agent OS *architecture* (Kanban delegation, multi-format pipelines) as a technical reference—but I would not adopt his production volume targets or review standards.
+**Note:** I would still study Goldie's Agent OS *architecture* (Kanban delegation, multi-format pipelines) as a technical reference, but I would not adopt his production volume targets or review standards.
 
 ### Daniel Agrici — recommended with caveats, not for beginners
 
 Agrici builds impressive open-source tooling (Claude SEO v2, claude-blog) with rigorous automated quality gates (source: [Daniel Agrici](https://www.youtube.com/watch?v=COMnNlUakQk), YouTube, 10.02.2026). However:
 
-- Requires developer fluency (CLI, GitHub, API integrations)—not suitable for a non-technical content team starting out.
+- Requires developer fluency (CLI, GitHub, API integrations), not suitable for a non-technical content team starting out.
 - Self-reported performance metrics (GitHub stars, correlation claims) should be verified independently before building strategy around them.
 
 I would recommend Agrici to **technical SEO teams** building custom pipelines, but not to a marketing manager looking for their first AI content workflow.
