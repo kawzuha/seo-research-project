@@ -161,7 +161,7 @@ Target 0→80% AI automation on first drafts, with programmatic page-level enhan
 
 ### 5.2 Content refresh loop (ongoing)
 
-This is not a one-time project—it is a production system:
+This is not a one-time project, it is a production system:
 
 1. Identify decaying content via traffic/engagement metrics
 2. Use AI to analyze SERP changes and competitor updates
