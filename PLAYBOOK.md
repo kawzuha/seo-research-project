@@ -239,9 +239,9 @@ Shift metrics from traffic-only to citation, recommendation, and representation 
 
 ### Disagreement 4: Claude Code skills vs. platform pipelines (AirOps)
 
-**Author A — Daniel Agrici / Gael Breton** advocate Claude Code skills as a replacement for fragmented SEO tooling—open-source, modular, developer-extensible (source: [Daniel Agrici](https://www.youtube.com/watch?v=COMnNlUakQk), YouTube, 10.02.2026; [Gael Breton](https://www.authorityhacker.com/blog/claude-code-for-marketers-course-announcement/), blog, 06.02.2026).
+**Author A — Daniel Agrici / Gael Breton** advocate Claude Code skills as a replacement for fragmented SEO tooling, open-source, modular, developer-extensible (source: [Daniel Agrici](https://www.youtube.com/watch?v=COMnNlUakQk), YouTube, 10.02.2026; [Gael Breton](https://www.authorityhacker.com/blog/claude-code-for-marketers-course-announcement/), blog, 06.02.2026).
 
-**Author B — Kevin Indig** pushes engineered content pipelines via AirOps with centralized brief generation, CMS integration, and decay monitoring—aimed at content teams, not developers (source: [Kevin Indig](https://www.airops.com/blog/scalable-ai-content-seo-systems), blog, 12.01.2026).
+**Author B — Kevin Indig** pushes engineered content pipelines via AirOps with centralized brief generation, CMS integration, and decay monitoring, aimed at content teams, not developers (source: [Kevin Indig](https://www.airops.com/blog/scalable-ai-content-seo-systems), blog, 12.01.2026).
 
 **My take:** Depends on team shape. Non-technical content teams should start with AirOps or equivalent no-code orchestration (Indig). Teams with engineering capacity should invest in Boshoff/Agrici's Claude Code skill architecture for lower long-term cost and more control. I would not ask a 5-person marketing team to maintain 248 tests in a GitHub repo on day one.
 
